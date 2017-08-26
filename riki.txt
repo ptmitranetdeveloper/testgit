@@ -1,3 +1,7 @@
 helllo world
 aaaaaa
+<<<<<<< HEAD
 bbbbbb
+=======
+asdasd
+>>>>>>> 9589dabf49a4855beb35bf8bf548d8613f69cb1d
