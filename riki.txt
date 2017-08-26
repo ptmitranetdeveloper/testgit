@@ -4,4 +4,9 @@ aaaaaa
 bbbbbb
 =======
 asdasd
+<<<<<<< HEAD
 >>>>>>> 9589dabf49a4855beb35bf8bf548d8613f69cb1d
+=======
+
+hallllo lagi
+>>>>>>> 8926caf4f0f7c4f77e123d1bc74106fc5f04f044
