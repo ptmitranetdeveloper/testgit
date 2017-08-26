@@ -9,4 +9,9 @@ asdasd
 =======
 
 hallllo lagi
+<<<<<<< HEAD
 >>>>>>> 8926caf4f0f7c4f77e123d1bc74106fc5f04f044
+=======
+
+hello dari riza
+>>>>>>> aa7553f60c4e9bda91fc0fa6d7396a9c174ad0f0
